@@ -13,7 +13,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~emigiupponi/1.embed"></iframe>
 
 ---
 [Project 3 Title](http://example.com/)
